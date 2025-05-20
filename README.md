@@ -79,13 +79,4 @@ Custom VPC (10.0.0.0/16)
 ## 📝 Author
 
 **Rami Alshaar**  
-Cloud Architect in Progress 🌩️  
-[GitHub Profile](https://github.com/Rami-Shaar)
-
-
----
-
-## 🏁 License
-
-<without hardening.
 
